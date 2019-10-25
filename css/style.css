@@ -15,8 +15,7 @@ li a{
 	color: black;
 }
 #headnav{
-		background-image: url('../images/bg-3.jpg');
-		background-repeat: no-repeat;
+		
 	background-size: 100%;
 	z-index: -1;
 	/*position: fixed;*/
@@ -34,3 +33,10 @@ header{
 	margin-top: 100px ;
 	position: relative;
 }
+body{
+background-image: url('../images/bg-3.jpg');
+background-size: cover;
+height: 100%;
+		
+}
+
